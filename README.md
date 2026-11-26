@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Bhanu Teja 👋
 
-<!--
-**GBT1306/GBT1306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering Student | Aspiring AI Engineer | Software Developer
 
-Here are some ideas to get you started:
+I'm a CSE student passionate about building intelligent applications and solving real-world problems through software engineering and artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently developing my skills in Data Structures & Algorithms, Java, Python, Machine Learning, and AI.
+
+### 🎯 Current Focus
+- Data Structures & Algorithms using Java
+- Python programming and problem solving
+- Machine Learning and Applied AI
+- Computer Vision and Generative AI
+- Software Engineering fundamentals
+
+### 🛠️ Technologies I'm Learning
+
+- **Languages:** C, Java, Python
+- **AI/ML:** NumPy, Pandas, Scikit-learn, PyTorch
+- **Computer Vision:** OpenCV
+- **Development:** Git, GitHub, SQL, FastAPI
+- **Core CS:** DSA, OOP, DBMS, Computer Networks
+
+### 🚀 Featured Projects
+Projects coming soon!
+
+### 📫 Connect With Me
+- LinkedIn: [Add your LinkedIn URL]
+- GitHub: [Your GitHub profile URL]
+
+*Learning, building, and improving every day.*
